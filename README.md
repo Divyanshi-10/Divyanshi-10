@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Divyanshi-10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Divyanshi Mohanty
+- 👀 I’m interested in coding(shh..Fine Arts).
+- 🌱 I’m currently learning DSA in C, Python ,  HTML ,C
+- 💞️ I’m looking to collaborate on anything, as i have the capability to learn new things and grasp concepts faster. 
+- 📫 How to reach me ... my mail is mohantydivyanshi2006@gmail.com 
 
 <!---
 Divyanshi-10/Divyanshi-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
